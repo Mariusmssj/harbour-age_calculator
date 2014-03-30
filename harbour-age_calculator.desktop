@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+X-Nemo-Application-Type=silica-qt5
+Name=Age Calculator
+Icon=harbour-age_calculator
+Exec=harbour-age_calculator
+
